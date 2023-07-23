@@ -1,0 +1,17 @@
+
+
+
+
+
+// Fazer uma API REST salvando o log em SQL
+
+
+
+// 3 endpoints e mandando para 2 endpointes de uma API externa que também é para ser consumida.
+
+
+
+//O que você vai precisar
+
+
+// SQL server
